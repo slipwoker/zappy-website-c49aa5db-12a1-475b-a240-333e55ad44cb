@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+תוצאות כדורגל היום מהפרמייר ליג, הספרדית, סרייה א ועוד שש ליגות מובילות. עקוב אחרי העברות שחקנים ותוצאות בזמן אמת. הכנס עכשיו ותהנה מהכדורגל!
+
+### שירותים
+https://example.com/services
+מעקב חכם אחרי הספרדית, הבונדסליגה, ליגת העל הישראלית ועוד. תוצאות עדכניות, טבלאות חיות וחדשות העברות שחקנים — הכלים שכל אוהד כדורגל חייב להכיר!
+
+### אודות
+https://example.com/about
+צפיה בכיף נולדה מתוך תשוקה אמיתית לכדורגל ולטבלת ליגת האלופות העדכנית. גלה מי אנחנו, מה מניע אותנו ולמה אלפי אוהדים ישראלים בחרו בנו כמקור הכדורגל שלהם!
+
+### צור קשר
+https://example.com/contact
+רוצה לדווח על תוצאה, לשאול על תוצאות כדורגל היום או להציע שיתוף פעולה? צוות צפיה בכיף כאן בשבילך — צור קשר עכשיו ונחזור אליך במהירות!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
